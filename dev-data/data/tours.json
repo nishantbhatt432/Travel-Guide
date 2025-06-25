@@ -1,0 +1,496 @@
+[
+  {
+    "startLocation": {
+      "description": "Goa, India",
+      "type": "Point",
+      "coordinates": [74.124,15.2993],
+      "address": "Goa, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 12,
+    "images": ["goa-tour-1.jpg", "goa-tour-2.jpg", "goa-tour-3.jpg"],
+    "startDates": [
+      "2024-06-15T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Beach Bliss in Goa",
+    "duration": 5,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 799,
+    "summary": "Relax on the golden beaches of Goa and explore its vibrant culture",
+    "description": "Unwind on the pristine beaches of Goa and immerse yourself in its rich culture and heritage. Enjoy water sports, beach parties, and delicious seafood. Visit historic churches, spice plantations, and bustling markets.",
+    "imageCover": "goa-tour-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Calangute Beach",
+        "type": "Point",
+        "coordinates": [73.764954,15.533414],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Basilica of Bom Jesus",
+        "type": "Point",
+        "coordinates": [ 73.8183,15.5014],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Anjuna Flea Market",
+        "type": "Point",
+        "coordinates": [73.7333,15.5833],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Leh, India",
+      "type": "Point",
+      "coordinates": [77.5848,34.1641],
+      "address": "Leh, Jammu and Kashmir, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 15,
+    "images": ["leh-tour-1.jpg", "leh-tour-2.jpg", "leh-tour-3.jpg"],
+    "startDates": [
+      "2024-07-10T09:00:00.000Z",
+      "2024-08-15T09:00:00.000Z",
+      "2024-09-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Mystical Ladakh Expedition",
+    "duration": 8,
+    "maxGroupSize": 12,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 1299,
+    "summary": "Explore the breathtaking landscapes and monasteries of Ladakh",
+    "description": "Embark on an unforgettable journey to Ladakh, known for its stunning landscapes, ancient monasteries, and vibrant culture. Visit iconic attractions like Pangong Lake, Nubra Valley, and Thiksey Monastery. Experience the warmth of Ladakhi hospitality.",
+    "imageCover": "leh-tour-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Pangong Lake",
+        "type": "Point",
+        "coordinates": [78.674133,33.757475],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Nubra Valley",
+        "type": "Point",
+        "coordinates": [77.564198,34.685502],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Thiksey Monastery",
+        "type": "Point",
+        "coordinates": [77.667784,34.055629],
+        "day": 8
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Shimla, India",
+      "type": "Point",
+      "coordinates": [77.1734,31.1048],
+      "address": "Shimla, Himachal Pradesh, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 10,
+    "images": ["shimla-tour-1.jpg", "shimla-tour-2.jpg", "shimla-tour-3.jpg"],
+    "startDates": [
+      "2024-05-20T09:00:00.000Z",
+      "2024-06-18T09:00:00.000Z",
+      "2024-07-25T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2952",
+    "name": "Enchanting Shimla Retreat",
+    "duration": 6,
+    "maxGroupSize": 15,
+    "difficulty": "easy",
+    "guides": ["5c8a1f292f8fb814b56fa184", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 999,
+    "summary": "Experience the charm of Shimla with scenic views and cultural delights",
+    "description": "Discover the picturesque hill station of Shimla, adorned with colonial architecture, lush greenery, and panoramic views of the Himalayas. Visit attractions like the Mall Road, Jakhu Temple, and Kufri. Indulge in Himachali cuisine and explore local markets.",
+    "imageCover": "shimla-tour-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Mall Road",
+        "type": "Point",
+        "coordinates": [77.1734,31.1048],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2955",
+        "description": "Jakhu Temple",
+        "type": "Point",
+        "coordinates": [77.1887,31.1016],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Kufri",
+        "type": "Point",
+        "coordinates": [77.2672,31.0982],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Munnar, India",
+      "type": "Point",
+      "coordinates": [77.0595, 10.0889],
+      "address": "Munnar, Kerala, India"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 8,
+    "images": ["munnar-tour-1.jpg", "munnar-tour-2.jpg", "munnar-tour-3.jpg"],
+    "startDates": [
+      "2024-08-05T09:00:00.000Z",
+      "2024-09-10T09:00:00.000Z",
+      "2024-10-20T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2953",
+    "name": "Tranquil Munnar Retreat",
+    "duration": 7,
+    "maxGroupSize": 18,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a21d02f8fb814b56fa189"],
+    "price": 1199,
+    "summary": "Escape to the serene tea plantations and misty hills of Munnar",
+    "description": "Experience the tranquility of Munnar, nestled amidst lush tea estates and mist-covered hills. Explore the Eravikulam National Park, Mattupetty Dam, and Tea Museum. Enjoy adventurous activities like trekking and wildlife spotting.",
+    "imageCover": "munnar-tour-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Eravikulam National Park",
+        "type": "Point",
+        "coordinates": [77.087, 10.2172],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2955",
+        "description": "Mattupetty Dam",
+        "type": "Point",
+        "coordinates": [77.1684, 10.1169],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Tea Museum",
+        "type": "Point",
+        "coordinates": [77.0595, 10.0889],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+        "description": "Udaipur, India",
+        "type": "Point",
+        "coordinates": [73.7125, 24.5854],
+        "address": "Udaipur, Rajasthan, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 14,
+    "images": ["udaipur-tour-1.jpg", "udaipur-tour-2.jpg", "udaipur-tour-3.jpg"],
+    "startDates": [
+        "2024-06-25T09:00:00.000Z",
+        "2024-07-30T09:00:00.000Z",
+        "2024-08-27T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2956",
+    "name": "Royal Udaipur Experience",
+    "duration": 7,
+    "maxGroupSize": 16,
+    "difficulty": "easy",
+    "guides": ["5c8a201e2f8fb814b56fa186", "5c8a22c62f8fb814b56fa18b"],
+    "price": 1099,
+    "summary": "Immerse yourself in the regal grandeur of Udaipur's palaces and lakes",
+    "description": "Discover the opulence of Udaipur, adorned with majestic palaces, serene lakes, and vibrant bazaars. Visit iconic landmarks like the City Palace, Lake Pichola, and Jag Mandir. Experience the splendor of Rajasthani culture and hospitality.",
+    "imageCover": "udaipur-tour-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2956",
+            "description": "City Palace",
+            "type": "Point",
+            "coordinates": [73.68, 24.5764],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2955",
+            "description": "Lake Pichola",
+            "type": "Point",
+            "coordinates": [73.6838, 24.576],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2954",
+            "description": "Jag Mandir",
+            "type": "Point",
+            "coordinates": [73.6791, 24.5702],
+            "day": 5
+        }
+    ]
+},
+{
+    "startLocation": {
+        "description": "Varanasi, India",
+        "type": "Point",
+        "coordinates": [82.9739, 25.3176],
+        "address": "Varanasi, Uttar Pradesh, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 13,
+    "images": ["varanasi-tour-1.jpg", "varanasi-tour-2.jpg", "varanasi-tour-3.jpg"],
+    "startDates": [
+        "2024-06-10T09:00:00.000Z",
+        "2024-07-15T09:00:00.000Z",
+        "2024-08-22T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2958",
+    "name": "Spiritual Journey in Varanasi",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "easy",
+    "guides": ["5c8a1f4e2f8fb814b56fa185", "5c8a201e2f8fb814b56fa186"],
+    "price": 899,
+    "summary": "Explore the spiritual essence of Varanasi along the banks of the Ganges",
+    "description": "Embark on a soulful journey to Varanasi, the spiritual capital of India. Witness the mesmerizing Ganga Aarti, take a boat ride along the sacred Ganges, and visit ancient temples and ghats. Experience the rich cultural heritage and traditions.",
+    "imageCover": "varanasi-tour-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2959",
+            "description": "Dashashwamedh Ghat",
+            "type": "Point",
+            "coordinates": [83.0105, 25.3051],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2958",
+            "description": "Kashi Vishwanath Temple",
+            "type": "Point",
+            "coordinates": [83.0304, 25.3104],
+            "day": 2
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2957",
+            "description": "Sarnath",
+            "type": "Point",
+            "coordinates": [83.0268, 25.3796],
+            "day": 3
+        }
+    ]
+},
+{
+    "startLocation": {
+        "description": "Kochi, India",
+        "type": "Point",
+        "coordinates": [76.2673, 9.9312],
+        "address": "Kochi, Kerala, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 16,
+    "images": ["kochi-tour-1.jpg", "kochi-tour-2.jpg", "kochi-tour-3.jpg"],
+    "startDates": [
+        "2024-07-02T09:00:00.000Z",
+        "2024-08-07T09:00:00.000Z",
+        "2024-09-10T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2959",
+    "name": "Cultural Delights of Kochi",
+    "duration": 5,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f292f8fb814b56fa184"],
+    "price": 999,
+    "summary": "Discover the rich cultural heritage and scenic beauty of Kochi",
+    "description": "Immerse yourself in the cultural mosaic of Kochi, where history blends seamlessly with modernity. Explore the historic Fort Kochi, marvel at the Chinese fishing nets, and stroll through the vibrant streets of Jew Town. Indulge in mouthwatering Kerala cuisine.",
+    "imageCover": "kochi-tour-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2956",
+            "description": "Fort Kochi",
+            "type": "Point",
+            "coordinates": [76.2442, 9.9667],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2955",
+            "description": "Mattancherry Palace",
+            "type": "Point",
+            "coordinates": [76.2433, 9.9667],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2954",
+            "description": "Kerala Kathakali Centre",
+            "type": "Point",
+            "coordinates": [76.2435, 9.9627],
+            "day": 4
+        }
+    ]
+},
+{
+    "startLocation": {
+        "description": "Agra, India",
+        "type": "Point",
+        "coordinates": [78.0081, 27.1767],
+        "address": "Agra, Uttar Pradesh, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 14,
+    "images": ["agra-tour-1.jpg", "agra-tour-2.jpg", "agra-tour-3.jpg"],
+    "startDates": [
+        "2024-06-30T09:00:00.000Z",
+        "2024-08-05T09:00:00.000Z",
+        "2024-09-15T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2251",
+    "name": "Agra Heritage Tour",
+    "duration": 3,
+    "maxGroupSize": 10,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f292f8fb814b56fa184"],
+    "price": 749,
+    "summary": "Explore the timeless beauty of Agra's architectural wonders",
+    "description": "Step back in time and marvel at the architectural masterpieces of Agra, including the iconic Taj Mahal, Agra Fort, and Fatehpur Sikri. Immerse yourself in the rich history and cultural heritage of this historic city.",
+    "imageCover": "agra-tour-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2956",
+            "description": "Taj Mahal",
+            "type": "Point",
+            "coordinates": [78.0421, 27.1751],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2955",
+            "description": "Agra Fort",
+            "type": "Point",
+            "coordinates": [78.0211, 27.1797],
+            "day": 2
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2954",
+            "description": "Fatehpur Sikri",
+            "type": "Point",
+            "coordinates": [77.6677, 27.0945],
+            "day": 3
+        }
+    ]
+},
+{
+    "startLocation": {
+        "description": "Darjeeling, India",
+        "type": "Point",
+        "coordinates": [88.2637, 27.0360],
+        "address": "Darjeeling, West Bengal, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 18,
+    "images": ["darjeeling-tour-1.jpg", "darjeeling-tour-2.jpg", "darjeeling-tour-3.jpg"],
+    "startDates": [
+        "2024-07-12T09:00:00.000Z",
+        "2024-08-20T09:00:00.000Z",
+        "2024-09-25T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2950",
+    "name": "Scenic Darjeeling Adventure",
+    "duration": 6,
+    "maxGroupSize": 14,
+    "difficulty": "medium",
+    "guides": ["5c8a1f292f8fb814b56fa184", "5c8a201e2f8fb814b56fa186"],
+    "price": 1099,
+    "summary": "Discover the breathtaking beauty of Darjeeling's tea gardens and Himalayan views",
+    "description": "Embark on an adventure to Darjeeling, renowned for its lush tea gardens, stunning views of the Himalayas, and vibrant culture. Visit iconic attractions like Tiger Hill, Batasia Loop, and Padmaja Naidu Himalayan Zoological Park. Experience the charm of this hill station.",
+    "imageCover": "darjeeling-tour-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2956",
+            "description": "Tiger Hill",
+            "type": "Point",
+            "coordinates": [88.2400, 27.0377],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2955",
+            "description": "Batasia Loop",
+            "type": "Point",
+            "coordinates": [88.2486, 27.0411],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2954",
+            "description": "Padmaja Naidu Himalayan Zoological Park",
+            "type": "Point",
+            "coordinates": [88.2484, 27.0238],
+            "day": 5
+        }
+    ]
+},
+{
+    "startLocation": {
+        "description": "Rishikesh, India",
+        "type": "Point",
+        "coordinates": [78.2676, 30.0869],
+        "address": "Rishikesh, Uttarakhand, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 11,
+    "images": ["rishikesh-tour-1.jpg", "rishikesh-tour-2.jpg", "rishikesh-tour-3.jpg"],
+    "startDates": [
+        "2024-07-20T09:00:00.000Z",
+        "2024-08-25T09:00:00.000Z",
+        "2024-09-30T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c294f",
+    "name": "Adventure Retreat in Rishikesh",
+    "duration": 5,
+    "maxGroupSize": 16,
+    "difficulty": "medium",
+    "guides": ["5c8a201e2f8fb814b56fa186", "5c8a22c62f8fb814b56fa18b"],
+    "price": 949,
+    "summary": "Embark on an adrenaline-pumping adventure in the yoga capital of the world",
+    "description": "Experience the thrill of adventure in Rishikesh, nestled in the foothills of the Himalayas. Enjoy activities like white-water rafting, bungee jumping, and trekking. Explore ancient temples, practice yoga by the Ganges, and rejuvenate your mind, body, and soul.",
+    "imageCover": "rishikesh-tour-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2956",
+            "description": "Laxman Jhula",
+            "type": "Point",
+            "coordinates": [78.3299, 30.1265],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2955",
+            "description": "Neelkanth Mahadev Temple",
+            "type": "Point",
+            "coordinates": [78.2878, 30.0945],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2954",
+            "description": "Triveni Ghat",
+            "type": "Point",
+            "coordinates": [78.2676, 30.0852],
+            "day": 5
+        }
+    ]
+}
+]
