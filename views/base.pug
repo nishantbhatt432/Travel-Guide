@@ -1,0 +1,30 @@
+doctype html
+html
+  head
+    block head
+      meta(httpequiv="Content-Security-Policy" content="default-src * self blob: data: gap:; style-src * self 'unsafe-inline' blob: data: gap:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; object-src * 'self' blob: data: gap:; img-src * self 'unsafe-inline' blob: data: gap:; connect-src self * https://api.razorpay.com https://lumberjack-cx.razorpay.com http://localhost:3000 'unsafe-inline' blob: data: gap:; frame-src * self blob: data: gap:;")
+      meta(charset='UTF-8')
+      meta(name='viewport' content='width=device-width, initial-scale=1.0')
+      link(rel='stylesheet' href='/css/style.css')
+      link(rel='shortcut icon' type='image/png' href='/img/favicon.png')
+      link(rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:300,300i,700')
+      title Life Navigatours | #{title}
+  
+  body
+    // HEADER
+    include _header
+        
+    // CONTENT
+    block content
+      h1 This is a placeholder heading
+      
+    // FOOTER
+    include _footer
+    
+    //- Include Leaflet script
+    script(src='https://unpkg.com/leaflet@1.7.1/dist/leaflet.js')
+    //- Include Razorpay script
+    script(src='https://checkout.razorpay.com/v1/checkout.js')
+    //- Include your bundle script after Leaflet and Razorpay
+    script(src='/js/bundle.js')
+
